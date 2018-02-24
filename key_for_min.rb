@@ -8,5 +8,6 @@ name_hash.collect do |key, value|
     result = name_hash[key]
 
   end
+end
   result
 end

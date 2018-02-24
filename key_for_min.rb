@@ -9,5 +9,5 @@ name_hash.collect do |key, value|
 
   end
 end
-  result
+  name_hash.key(result)
 end
